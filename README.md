@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./styles.css" />
+
 # Sample-QP
 Previous year's question papers for all subjects of *Bachelor of Technology* in **Computer Science Engineering** with **Data Science** as specialisation.
 
