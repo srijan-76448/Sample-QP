@@ -7,6 +7,7 @@
   - [2025](https://www.makaut.com/papers/btech-1-sem-physics-1-bs-ph101-2025.pdf)
 </details>
 
+
 ## SEM-2
 <details>
   <summary>Chemistry-I (Gr-A)</summary></summary>
@@ -20,12 +21,14 @@
   - [2024](https://www.makaut.com/papers/btech-2-sem-mathematics-2a-bsm201-2024.pdf)
 </details>
 
+
 ## SEM-3
 <details>
   <summary>Mathematics-III (Differential Calculus)</summary>
 
   - [2025]()
 </details>
+
 
 ## SEM-4
 <details>
@@ -45,4 +48,66 @@
 
   - [2024](https://www.makaut.com/papers/btech-4-sem-biology-bs-b401-2024.pdf)
   - [2023](https://www.makaut.com/papers/btech-bsb-4-sem-biology-bs-b401-2023.pdf)
+</details>
+
+
+## SEM-5
+<details>
+  <summary></summary>
+
+  - []()
+</details>
+
+
+## SEM-6
+<details>
+  <summary>Data Communication And Computer Networks</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Big Data Technology</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Machine Learning</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Data Warehousing And Data Mining</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Human Resource Development And Organizational Behaviour</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Research Methodology</summary>
+
+  - []()
+</details>
+
+
+## SEM-7
+<details>
+  <summary></summary>
+
+  - []()
+</details>
+
+
+## SEM-8
+<details>
+  <summary></summary>
+
+  - []()
 </details>
