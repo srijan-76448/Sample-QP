@@ -63,37 +63,37 @@
 <details>
   <summary>Data Communication And Computer Networks</summary>
 
-  - []()
+  - [2024](https://www.makaut.com/papers/btech-ec-cse-6-sem-computer-networks-ec602-2024.pdf)
 </details>
 
 <details>
   <summary>Big Data Technology</summary>
 
-  - []()
+  - [2024]()
 </details>
 
 <details>
   <summary>Machine Learning</summary>
 
-  - []()
+  - [2024](https://www.makaut.com/papers/btech-pec-7-sem-machine-learning-pec-cs-701e-2024.pdf)
 </details>
 
 <details>
   <summary>Data Warehousing And Data Mining</summary>
 
-  - []()
+  - [2024]()
 </details>
 
 <details>
   <summary>Human Resource Development And Organizational Behaviour</summary>
 
-  - []()
+  - [2024]()
 </details>
 
 <details>
   <summary>Research Methodology</summary>
 
-  - []()
+  - [2024]()
 </details>
 
 
