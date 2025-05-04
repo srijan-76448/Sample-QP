@@ -8,6 +8,18 @@ Sample for *Bachelor of Technology* in **Computer Science Engineering** with **D
   - [2025](https://www.makaut.com/papers/btech-1-sem-physics-1-bs-ph101-2025.pdf)
 </details>
 
+<details>
+  <summary>Mathematics-IA</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Basic Electrical Engineering</summary>
+
+  - []()
+</details>
+
 
 ## SEM-2
 <details>
@@ -22,12 +34,55 @@ Sample for *Bachelor of Technology* in **Computer Science Engineering** with **D
   - [2024](https://www.makaut.com/papers/btech-2-sem-mathematics-2a-bsm201-2024.pdf)
 </details>
 
+<details>
+  <summary>Programming for Problem Solving</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>English</summary>
+
+  - []()
+</details>
 
 ## SEM-3
 <details>
+  <summary>Analog and Digital Electronics</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Data Structure & Algorithms</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Computer Organization and Architecture</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Introduction to Data Science</summary>
+
+  - []()
+</details>
+
+<details>
   <summary>Mathematics-III (Differential Calculus)</summary>
 
+  - []()
+
   - [2025]()
+</details>
+
+<details>
+  <summary>Economics for Engineers (Humanities-II)</summary>
+
+  - []()
 </details>
 
 
@@ -51,10 +106,64 @@ Sample for *Bachelor of Technology* in **Computer Science Engineering** with **D
   - [2023](https://www.makaut.com/papers/btech-bsb-4-sem-biology-bs-b401-2023.pdf)
 </details>
 
+<details>
+  <summary>Discrete Mathematics</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Design & Analysis of Algorithms</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Data Mining</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Environmental Sciences</summary>
+
+  - []()
+</details>
+
 
 ## SEM-5
 <details>
-  <summary></summary>
+  <summary>Software Engineering</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Statistics for Data Science</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Operating Systems</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Object Oriented Programming</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Introduction to Industrial Management (Humanities III)</summary>
+
+  - []()
+</details>
+
+<details>
+  <summary>Constitution of India</summary>
 
   - []()
 </details>
