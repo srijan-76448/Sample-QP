@@ -1,5 +1,5 @@
 # Sample-QP
-Sample for *Bachelor of Technology* in **Computer Science Engineering** with **Data Science** as specialisation.
+Sample Question Papers for all subjects of *Bachelor of Technology* in **Computer Science Engineering** with **Data Science** as specialisation.
 
 ## SEM-1
 <details>
