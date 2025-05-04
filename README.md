@@ -19,3 +19,30 @@
 
   - [2024](https://www.makaut.com/papers/btech-2-sem-mathematics-2a-bsm201-2024.pdf)
 </details>
+
+## SEM-3
+<details>
+  <summary>Mathematics-III (Differential Calculus)</summary>
+
+  - [2025]()
+</details>
+
+## SEM-4
+<details>
+  <summary>Database Management System</summary>
+
+  - [2014](https://www.makaut.com/papers/btech-cse-5-sem-database-management-system-2014.pdf)
+</details>
+
+<details>
+  <summary>Formal Language & Automata Theory</summary>
+
+  - [2024](https://www.makaut.com/papers/btech-pcc-cs-4-sem-formal-language-and-automata-theory-pcc-cs-403-2024.pdf)
+</details>
+
+<details>
+  <summary>Biology</summary>
+
+  - [2024](https://www.makaut.com/papers/btech-4-sem-biology-bs-b401-2024.pdf)
+  - [2023](https://www.makaut.com/papers/btech-bsb-4-sem-biology-bs-b401-2023.pdf)
+</details>
